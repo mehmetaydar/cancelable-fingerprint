@@ -1,7 +1,9 @@
 # cancelable-fingerprint
 A revocable fingerprint template generation using cartesian transformation to prevent privacy and security concerns. The system does fingerprint matching on the transformed templates, and is able to recover the original hash of the fingerprint template by using reed-solomon error correction mechanism.
 
-This is a research project. Details can be found in the pre-print: https://arxiv.org/abs/1907.04156 
+fvs2.py contains the main function.
+
+This is a research project. Details can be found in the pre-print: https://arxiv.org/abs/1907.04156 .
 
 Please cite this work as below if you use this repository for research:
 
