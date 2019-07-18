@@ -3,7 +3,7 @@ A revocable fingerprint template generation using cartesian transformation to pr
 
 fvs2.py contains the main function.
 
-This is a research project. Details can be found in the pre-print: https://arxiv.org/abs/1907.04156 .
+This is a research project. Details can be found in the pre-print: https://arxiv.org/pdf/1907.04156.pdf .
 
 Please cite this work as below if you use this repository for research:
 
